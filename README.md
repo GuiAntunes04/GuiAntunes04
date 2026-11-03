@@ -96,7 +96,7 @@ Computer vision pipeline for the [Kaggle AINET Coffee](https://www.kaggle.com/co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-gamma-flame-64.vercel.app/api?username=GuiAntunes04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-gamma-flame-64.vercel.app/api?username=GuiAntunes04&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-gamma-flame-64.vercel.app/api/top-langs/?username=GuiAntunes04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
