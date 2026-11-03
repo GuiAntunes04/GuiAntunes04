@@ -48,7 +48,7 @@ Full-stack study platform for Brazil's national university entrance exam (ENEM).
 - API key and model fallback strategy to handle quota limits and model overload
 
 **Stack:** React · TypeScript · Node.js · Express · Supabase (PostgreSQL, Auth, RLS) · Google Gemini · Vercel · Render
-**Live:** [enem-prep-ai.vercel.app](https://enem-prep-ai.vercel.app/)
+**Live:** [enemprep-ai.com.br](https://enemprep-ai.com.br/)
 
 ### [Exoplanet Classifier](https://github.com/GuiAntunes04/exoplanet-classifier)
 Machine learning system that distinguishes confirmed exoplanets from false positives using 24+ astronomical features from the Kepler, TESS (TOI) and K2 missions. Built for the NASA Space Apps Challenge.
@@ -59,8 +59,8 @@ Machine learning system that distinguishes confirmed exoplanets from false posit
 **Stack:** Python · XGBoost · Streamlit
 **Live:** [exoplanet-classifier.streamlit.app](https://exoplanet-classifier-spaceappschallenge.streamlit.app/)
 
-### [Cryptonit API](https://github.com/GuiAntunes04/cryptonit-api)
-Crypto portfolio management API with hybrid persistence and live market data from Binance.
+### [Cryptonit API](https://github.com/GuiAntunes04/cryptonit-api) · *work in progress*
+Crypto portfolio management API with hybrid persistence and live market data from Binance. Currently in early development.
 
 **Stack:** Java · Spring Boot · PostgreSQL · MongoDB · Binance API
 
@@ -96,8 +96,8 @@ Computer vision pipeline for the [Kaggle AINET Coffee](https://www.kaggle.com/co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiAntunes04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAntunes04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-gamma-flame-64.vercel.app/api?username=GuiAntunes04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-gamma-flame-64.vercel.app/api/top-langs/?username=GuiAntunes04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
